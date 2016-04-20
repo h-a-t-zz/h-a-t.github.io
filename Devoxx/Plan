@@ -1,0 +1,18 @@
+Intro/What is a hacker
+
+docker run : TLDR:Schema generique, virtualisation applicative
+docker run : DevOps
+docker run : IoT
+
+Regard critique :
+docker pause : Stop writing system code !
+docker pause : Stop reinventing the wheel -> BT
+docker pause : Security & DevOpsSec + demo
+
+Archi
+docker build : Synchro Hardware/OS, Application, Data 
+docker build : Archi Prod (Cactuar)
+docker build : PROFIT (demo)
+
+Conclusion
+RecetteÀMarcel : Quotes de fin
