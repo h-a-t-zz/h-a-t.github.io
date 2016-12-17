@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html >
+   <head>
+      <meta charset="UTF-8">
+      <title>H.A.T</title>
+      <meta name="viewport" content="width=device-width">
+      <link rel="stylesheet" href="css/normalize.css">
+      <link rel="stylesheet" href="css/style.css">
+      <style type="text/css" media="screen">
+         html {
+         margin:0;
+         padding:0;
+         background: url(back2.jpg) no-repeat center fixed;
+         -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+         background-size: cover; /* version standardisée */
+         }
+      </style>
+   </head>
+   <body>
+      <div class="container">
+         <FONT color="black">
+            <center>
+               <h1>H.A.T</h1>
+               <i>
+                  <h4>Digital {Doctor, Storyteller}</h4>
+                  <h6>Checkpoints</h6>
+               </i>
+
+            </center>
+         </FONT>
+         <div class="timeline">
+            <h2>Last</h2>
+            <ul>
+	      <li>
+		<h3>How to Build Internet's Hospital</h3>
+		<p><a href="https://medium.com/@H.A.T/how-to-build-internets-hospital-82640742d631#.1cxnpcutq">@ Medium </a> </p>
+		<time>22/08/2016</time>
+	      </li>
+              <li>
+                 <h3>1001 Hacker Nights</h3>
+                 <p><a href="./PSES/index.html">Hack an NGO</a> @ <a href="https://www.pseshsf.org/fr/programme/2016/#event-514">PSES-HSF ~ Choisy-le-Roi</a></p>
+                 <time>01/07/2016</time>
+            </li>
+            <li>
+               <h3>[FR] Hitch's Hacker Guide to Docker's Galaxy</h3>
+               <p><a href="./Devoxx/index.html">Dev Version</a> @ <a href="https://www.devoxx.fr/">Devoxx ~ Paris</a></p>
+               <p><iframe width="250" height="150" src="https://www.youtube.com/embed/is4f-yreYHg" frameborder="0" allowfullscreen></iframe></p>
+               <time>21/04/2016</time>
+            </li>
+            <li>
+               <h3>Hitch's Hacker Guide to Docker's Galaxy</h3>
+               <p><a href="./Hackzone/index.html">IoT Version</a> @ <a href="https://www.facebook.com/HACK.ZONE.TUNISIA">Hackzone ~ Tunisia </a></p>
+               <time>16/04/2016</time>
+            </li>
+            <li>
+                <h3>[FR] Qui se cache derrière les spams ?</h3>
+                <p><a href="http://www.france4.fr/emissions/on-n-est-plus-des-pigeons">@ On n'est plus des pigeons</a></p>
+                <p><iframe width="250" height="150" src="https://www.youtube.com/embed/-9XeRhnj3bk" frameborder="0" allowfullscreen></iframe></p>
+                <time>21/03/2016</time>
+            </li>
+
+            <li>
+               <h3>Hitch's Hacker Guide to Docker's Galaxy</h3>
+               <p><a href="#">Hacker Version</a> @ <a href="https://www.rootedcon.com/en/rootedcon2016/talks">RootedCon ~ Spain</a></p>
+               <time>04/03/2016</time>
+            </li>
+            <li>
+               <h3>InfoSec Industry in the dawn of a new Era</h3>
+               <p><a href="https://medium.com/@H.A.T/building-bridges-0-1-a157da6ef4fa">@ Medium</a></p>
+               <time>01/02/2016</time>
+            </li>
+            <h2>2016</h2>
+            <li>
+               <h3>CTO</h3>
+               <p><a href="https://www.yogosha.com">@ Yogosha</a></p>
+               <time>~$uptime 1 year - ongoing</time>
+            </li>
+            <li>
+               <h3>Lecturer</h3>
+               <p><a href="https://www.lp-dw.com">@ LP-DW</a></p>
+               <time>~$uptime 2 years - ongoing</time>
+            </li>
+            <li>
+               <h3>Ex-Spokesman, member</h3>
+               <p><a href="https://nuitduhack.com/en/about-us.html">@ HZV</a></p>
+               <time>~$uptime 4 years - ongoing</time>
+            </li>
+            </ul>
+            <h2>2014-2015</h2>
+            <ul>
+               <li>
+                  <h3>Information Security Consultant</h3>
+                  <p><a href="https://en.wikipedia.org/wiki/Deloitte">@ Deloitte France</a></p>
+                  <time>~$uptime 2 years</time>
+               </li>
+               <li>
+                  <h3>Lecturer</h3>
+                  <p><a href="http://www.ina-expert.com/licence-et-diplome-ina/licence-professionnelle-systemes-audiovisuels-numeriques.html">@ Institut national de l'audiovisuel</a></p>
+                  <time>~$uptime 2 years</time>
+               </li>
+
+                <li>
+                  <h3>[FR] Comment les hackers oeuvrent pour le monde de la sécurité IT</h3>
+                  <p><a href="http://cafeine.tv/event/7086/gouvernance-des-systemes-d-information/cyber-securite-et-confidentialite/comment-les-hackers-oeuvrent-pour-le-monde-de-la-securite-it...--et-pour-la-societe-qui-les-entoure">@ Cafeine.tv</a></p>
+                  <p><iframe width="250" height="150" src="https://www.youtube.com/embed/6sabm8VGG6M" frameborder="0" allowfullscreen></iframe></p>
+                  <time>26/08/2015</time>
+              </li>
+
+               <li>
+                  <h3>[FR] A-t-on encore une vie privée sur internet ?</h3>
+                  <p><a href="http://www.france4.fr/emissions/on-n-est-plus-des-pigeons">@ On n'est plus des pigeons</a></p>
+                  <p><iframe width="250" height="150" src="https://www.youtube.com/embed/lOv5Tml9D9c" frameborder="0" allowfullscreen></iframe></p>
+                  <time>14/09/2014</time>
+               </li>
+               <li>
+                  <h3>[FR] TV Interview</h3>
+                  <p><a href="https://en.wikipedia.org/wiki/I-T%C3%A9l%C3%A9">@ I-Tele</a></p>
+                  <p><iframe width="250" height="150" src="https://www.youtube.com/embed/nfYVJX2AeBQ" frameborder="0" allowfullscreen></iframe></p>
+                  <time>06/08/2014</time>
+               </li>
+               <li>
+                  <h3>[FR] Le debat de G1 - Watch Dogs</h3>
+                  <p><a href="https://fr.wikipedia.org/wiki/Game_One">@ Game One</a></p>
+                  <p><iframe frameborder="0" width="250" height="150" src="https://www.dailymotion.com/embed/video/x1xqxte" allowfullscreen></iframe></p>
+                  <time>30/05/2014</time>
+               </li>
+            </ul>
+            <h2>2012-2013</h2>
+            <ul>
+               <li>
+                  <h3>BI Consultant</h3>
+                  <p><a href="https://en.wikipedia.org/wiki/Renault/">@ Renault</a></p>
+                  <time>~$uptime 5 months</time>
+               </li>
+               <li>
+                  <h3>IT Consultant</h3>
+                  <p><a href="https://en.wikipedia.org/wiki/Thales_Group">@ Thales</a></p>
+                  <time>~$uptime 7 months</time>
+               </li>
+               <li>
+                  <h3>BI Consultant</h3>
+                  <p><a href="https://www.ca-cardsandpayments.com/">@ Crédit Agricole Cards & Payments</a></p>
+                  <time>~$uptime 7 months</time>
+               </li>
+               <li>
+                  <h3>[FR] Social Engineering et journalisme</h3>
+                  <p><a href="https://www.nuitduhack.com/fr/">@ Nuit du Hack 2k13</a> w/ <a href="http://expertes.eu/expertes/julie-gommes/">Julie Gommes</a></p>
+                  <p><iframe width="250" height="150" src="https://www.youtube.com/embed/W22agRmsLbo" frameborder="0" allowfullscreen></iframe></p>
+                  <time>22/06/2013</time>
+               </li>
+               <li>
+                  <h3>[FR] TV Interview</h3>
+                  <p><a href="https://en.wikipedia.org/wiki/TV5_Monde">@ TV5 Monde</a></p>
+                  <p><iframe width="250" height="150" src="https://www.youtube.com/embed/JgMBya8gTR0" frameborder="0" allowfullscreen></iframe></p>
+                  <time>21/06/2013</time>
+               </li>
+            </ul>
+            <h2>2010-2011</h2>
+            <ul>
+              <li>
+                 <h3>Group Information Systems Intern</h3>
+                 <p><a href="https://en.wikipedia.org/wiki/Amadeus_IT_Group">@ Amadeus</a></p>
+                 <iframe src="https://player.vimeo.com/video/17681139" width="250" height="150" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                 <time>~$uptime 6 months</time>
+              </li>
+               <li>
+                  <h3>Information Management Intern</h3>
+                  <p><a href="https://en.wikipedia.org/wiki/Logica">@ Logica Business Consulting</a></p>
+                  <time>~$uptime 6 months</time>
+               </li>
+               <li>
+                  <h3>Graduated Business School</h3>
+                  <p>French Master 2 eq. to a M.Sc. in SME Management</p>
+                  <time>September 2011</time>
+               </li>
+               <li>
+                  <h3>Graduated Engineering School</h3>
+                  <p>French Engineer Diploma eq. to a M.Eng. in Computer Science</p>
+                  <time>September 2011</time>
+               </li>
+            </ul>
+            <h2>1996</h2>
+            <ul>
+               <li>
+                  <h3>First Contact</h3>
+                  <p>Pentium MMX 166 MHz, 2Go HDD, 256Mo RAM</p>
+                  <time>~$uptime ongoing</time>
+               </li>
+            </ul>
+         </div>
+      </div>
+      <center><img height="100" src="asclepius-glider.png"></img> </center>
+      <FONT color="black">
+         <p align="right">
+         <h5><em>Based on the talented work of <a href="http://codepen.io/jplhomer/pen/lgfus">Joshua P. Larson</a>.</em></h5>
+         </p>
+      </FONT>
+   </body>
+</html>
